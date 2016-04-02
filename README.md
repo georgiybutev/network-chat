@@ -5,7 +5,7 @@ I had to write this application for the network programming class at LSBU.
 For detailed information read the report.
 
 Author: Georgi Butev
-Lacturer: Dr Perry Xiao
+Lecturer: Dr Perry Xiao
 Class: Advanced Network Programming
 Course: CSN 1024 FT
 University: LSBU
